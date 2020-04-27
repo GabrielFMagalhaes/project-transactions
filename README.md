@@ -1,6 +1,6 @@
-# Transactions Application
+# goFinances 
 
-Its an application to manage transactions with the amount of expense in products or services.
+goFinances is an application to manage transactions with the amount of expense in products or services.
 This application also use drag and drop system to import csv files for new transactions.
 
 **&copy; <img src="imgs/rocketseat.svg" alt="rocketseat" height="20"> [Rocketseat](https://rocketseat.com.br/)**
